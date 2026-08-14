@@ -4,12 +4,41 @@
       "country": "Global",
       "resellers": [
         {
-          "name": "Example Reseller",
-          "logo": "https://example.com/logo.png",
+          "name": "NovaKey",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=NovaKey",
           "contacts": {
-            "whatsapp": "https://wa.me/1234567890",
-            "telegram": "https://t.me/example",
-            "website": "https://example.com"
+            "telegram": "https://t.me/novakey_global",
+            "website": "https://example.com/novakey"
+          }
+        },
+        {
+          "name": "ShadowVault",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=ShadowVault",
+          "contacts": {
+            "whatsapp": "https://wa.me/15550101001"
+          }
+        },
+        {
+          "name": "PixelRift",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=PixelRift",
+          "contacts": {
+            "telegram": "https://t.me/pixelrift"
+          }
+        },
+        {
+          "name": "IronNinja",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=IronNinja",
+          "contacts": {
+            "whatsapp": "https://wa.me/15550101002",
+            "website": "https://example.com/ironninja"
+          }
+        },
+        {
+          "name": "BlueOrbit",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=BlueOrbit",
+          "contacts": {
+            "telegram": "https://t.me/blueorbit",
+            "website": "https://example.com/blueorbit"
           }
         }
       ]
@@ -18,24 +47,17 @@
       "country": "Egypt",
       "resellers": [
         {
-          "name": "Nile Tech",
-          "logo": "",
+          "name": "NileKeys",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=NileKeys",
           "contacts": {
-            "telegram": "@niletech"
+            "whatsapp": "https://wa.me/201000000001"
           }
         },
         {
-          "name": "Cairo Digital",
-          "logo": "",
+          "name": "PharaohHub",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=PharaohHub",
           "contacts": {
-            "telegram": "@cairodigital"
-          }
-        },
-        {
-          "name": "Pharaoh Store",
-          "logo": "",
-          "contacts": {
-            "telegram": "@pharaohstore"
+            "telegram": "https://t.me/pharaohhub"
           }
         }
       ]
@@ -44,29 +66,11 @@
       "country": "India",
       "resellers": [
         {
-          "name": "India Tech Hub",
-          "logo": "",
+          "name": "DeccanKeys",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=DeccanKeys",
           "contacts": {
-            "telegram": "@indiatechhub"
-          }
-        },
-        {
-          "name": "Mumbai Digital",
-          "logo": "",
-          "contacts": {
-            "telegram": "@mumbaidigital"
-          }
-        }
-      ]
-    },
-    {
-      "country": "Brazil",
-      "resellers": [
-        {
-          "name": "Brasil Tech",
-          "logo": "",
-          "contacts": {
-            "telegram": "@brasiltech"
+            "whatsapp": "https://wa.me/919000000001",
+            "telegram": "https://t.me/deckankeys"
           }
         }
       ]
@@ -75,10 +79,11 @@
       "country": "Saudi Arabia",
       "resellers": [
         {
-          "name": "Saudi Digital",
-          "logo": "",
+          "name": "DesertByte",
+          "logo": "https://api.dicebear.com/9.x/initials/png?seed=DesertByte",
           "contacts": {
-            "telegram": "@saudidigital"
+            "whatsapp": "https://wa.me/966500000001",
+            "website": "https://example.com/desertbyte"
           }
         }
       ]
