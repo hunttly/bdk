@@ -4,8 +4,8 @@
       "country": "Global",
       "resellers": [
         {
-          "name": "NovaKey",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=NovaKey",
+          "name": "Hunter",
+          "logo": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/hunter.png",
           "contacts": {
             "telegram": "https://t.me/novakey_global",
             "website": "https://example.com/novakey"
