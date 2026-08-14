@@ -3,7 +3,7 @@
     {
       "country": "Global",
       "resellers": [
-        {
+         {
           "name": "Hunter",
           "logo": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/hunter.png",
           "contacts": {
@@ -18,49 +18,70 @@
       "country": "Egypt",
       "resellers": [
         {
-          "name": "Another Reseller",
+          "name": "Nile Tech",
           "logo": "",
           "contacts": {
-            "telegram": "@another_reseller"
-          }, 
-          {
-          "name": "Anorr Reseller",
-          "logo": "",
-          "contacts": {
-            "telegram": "@another_reseller"
+            "telegram": "@niletech"
           }
-        }
-      ]
-    },
-{
-      "country": "Brazil",
-      "resellers": [
+        },
         {
-          "name": "Anorr Reseller",
+          "name": "Cairo Digital",
           "logo": "",
           "contacts": {
-            "telegram": "@another_reseller"
+            "telegram": "@cairodigital"
+          }
+        },
+        {
+          "name": "Pharaoh Store",
+          "logo": "",
+          "contacts": {
+            "telegram": "@pharaohstore"
           }
         }
       ]
     },
-
-
-{
+    {
       "country": "India",
       "resellers": [
         {
-          "name": "Another Rler",
+          "name": "India Tech Hub",
           "logo": "",
           "contacts": {
-            "telegram": "@another_reseller"
+            "telegram": "@indiatechhub"
+          }
+        },
+        {
+          "name": "Mumbai Digital",
+          "logo": "",
+          "contacts": {
+            "telegram": "@mumbaidigital"
+          }
+        }
+      ]
+    },
+    {
+      "country": "Brazil",
+      "resellers": [
+        {
+          "name": "Brasil Tech",
+          "logo": "",
+          "contacts": {
+            "telegram": "@brasiltech"
+          }
+        }
+      ]
+    },
+    {
+      "country": "Saudi Arabia",
+      "resellers": [
+        {
+          "name": "Saudi Digital",
+          "logo": "",
+          "contacts": {
+            "telegram": "@saudidigital"
           }
         }
       ]
     }
-
-
-
-
   ]
 }
