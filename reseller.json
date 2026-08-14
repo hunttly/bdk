@@ -3,9 +3,9 @@
     {
       "country": "Global",
       "resellers": [
-         {
-          "name": "Hunter",
-          "logo": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/hunter.png",
+        {
+          "name": "Example Reseller",
+          "logo": "https://example.com/logo.png",
           "contacts": {
             "whatsapp": "https://wa.me/1234567890",
             "telegram": "https://t.me/example",
