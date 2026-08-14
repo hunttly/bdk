@@ -1,0 +1,85 @@
+{
+  "countries": [
+    {
+      "country": "Global",
+      "resellers": [
+        {
+          "name": "Hunter",
+          "logo": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/hunter.png",
+          "contacts": {
+            "whatsapp": "https://wa.me/1234567890",
+            "telegram": "https://t.me/example",
+            "website": "https://example.com"
+          }
+        }
+      ]
+    },
+    {
+      "country": "Egypt",
+      "resellers": [
+        {
+          "name": "Another Reseller",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          }
+        }
+      ]
+    },
+{
+      "country": "Egypt",
+      "resellers": [
+        {
+          "name": "Anorr Reseller",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          }
+        }
+      ]
+    },
+
+{
+      "country": "Egypt",
+      "resellers": [
+        {
+          "name": "hd Reseller",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          }
+        }
+      ]
+    },
+
+{
+      "country": "Egypt",
+      "resellers": [
+        {
+          "name": "  Reseller",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          }
+        }
+      ]
+    },
+
+{
+      "country": "Egypt",
+      "resellers": [
+        {
+          "name": "Another Rler",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          }
+        }
+      ]
+    }
+
+
+
+
+  ]
+}
