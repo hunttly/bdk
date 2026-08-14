@@ -5,6 +5,12 @@
     "slug": "8-ball-pool",
     "description": "Samurai Engine with enhanced gameplay features.",
     "image_url": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover.jpg",
+    image_urls": [
+      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover2.jpg",
+      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover3.jpg",
+      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover4.jpg"
+      
+    ],
     "download_url": "https://github.com/hunttly/bdk/raw/refs/heads/main/libsamurai.so",
     "version": 7,
     "created_at": "2025-07-16T14:40:16.147999"
@@ -15,6 +21,13 @@
     "slug": "carrom-pool",
     "description": "coming soon...",
     "image_url": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/carrom.png",
+      image_urls": [
+      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover.jpg",
+      "https://loremflickr.com/1200/800/billiards?lock=11",
+      "https://loremflickr.com/1200/800/billiards?lock=22",
+      "https://loremflickr.com/1200/800/billiards?lock=33",
+      "https://loremflickr.com/1200/800/billiards?lock=44"
+    ],
     "download_url": "https://<YOUR-PROJECT-REF>.supabase.co/storage/v1/object/public/cping-files/cping_memory_carrom_pool",
     "version": 1,
     "created_at": "2025-07-16T14:43:39.357099"
