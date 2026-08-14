@@ -28,12 +28,12 @@
           "logo": "",
           "contacts": {
             "telegram": "@another_reseller"
-          },
+          }
         }
       ]
     },
 {
-      "country": "Egypt",
+      "country": "Brazil",
       "resellers": [
         {
           "name": "Anorr Reseller",
