@@ -22,7 +22,13 @@
           "logo": "",
           "contacts": {
             "telegram": "@another_reseller"
-          }
+          }, 
+          {
+          "name": "Anorr Reseller",
+          "logo": "",
+          "contacts": {
+            "telegram": "@another_reseller"
+          },
         }
       ]
     },
@@ -39,34 +45,9 @@
       ]
     },
 
-{
-      "country": "Egypt",
-      "resellers": [
-        {
-          "name": "hd Reseller",
-          "logo": "",
-          "contacts": {
-            "telegram": "@another_reseller"
-          }
-        }
-      ]
-    },
 
 {
-      "country": "Egypt",
-      "resellers": [
-        {
-          "name": "  Reseller",
-          "logo": "",
-          "contacts": {
-            "telegram": "@another_reseller"
-          }
-        }
-      ]
-    },
-
-{
-      "country": "Egypt",
+      "country": "India",
       "resellers": [
         {
           "name": "Another Rler",
