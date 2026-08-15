@@ -23,9 +23,8 @@
     "description": "coming soon...",
     "image_url": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/carrom.png",
       "image_urls": [
-      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover.jpg",
-      "https://loremflickr.com/1200?lock=33",
-      "https://loremflickr.com/1200/800/billiards?lock=44"
+      "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/cover.jpg"
+      
     ],
     "download_url": "https://<YOUR-PROJECT-REF>.supabase.co/storage/v1/object/public/cping-files/cping_memory_carrom_pool",
     "version": 1,
