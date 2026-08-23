@@ -7,83 +7,8 @@
           "name": "Hunter",
           "logo": "https://raw.githubusercontent.com/hunttly/bdk/refs/heads/main/hunter.png",
           "contacts": {
-            "telegram": "https://t.me/novakey_global",
-            "website": "https://example.com/novakey"
-          }
-        },
-        {
-          "name": "ShadowVault",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=ShadowVault",
-          "contacts": {
-            "whatsapp": "https://wa.me/15550101001"
-          }
-        },
-        {
-          "name": "PixelRift",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=PixelRift",
-          "contacts": {
-            "telegram": "https://t.me/pixelrift"
-          }
-        },
-        {
-          "name": "IronNinja",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=IronNinja",
-          "contacts": {
-            "whatsapp": "https://wa.me/15550101002",
-            "website": "https://example.com/ironninja"
-          }
-        },
-        {
-          "name": "BlueOrbit",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=BlueOrbit",
-          "contacts": {
-            "telegram": "https://t.me/blueorbit",
-            "website": "https://example.com/blueorbit"
-          }
-        }
-      ]
-    },
-    {
-      "country": "Egypt",
-      "resellers": [
-        {
-          "name": "NileKeys",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=NileKeys",
-          "contacts": {
-            "whatsapp": "https://wa.me/201000000001"
-          }
-        },
-        {
-          "name": "PharaohHub",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=PharaohHub",
-          "contacts": {
-            "telegram": "https://t.me/pharaohhub"
-          }
-        }
-      ]
-    },
-    {
-      "country": "India",
-      "resellers": [
-        {
-          "name": "DeccanKeys",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=DeccanKeys",
-          "contacts": {
-            "whatsapp": "https://wa.me/919000000001",
-            "telegram": "https://t.me/deckankeys"
-          }
-        }
-      ]
-    },
-    {
-      "country": "Saudi Arabia",
-      "resellers": [
-        {
-          "name": "DesertByte",
-          "logo": "https://api.dicebear.com/9.x/initials/png?seed=DesertByte",
-          "contacts": {
-            "whatsapp": "https://wa.me/966500000001",
-            "website": "https://example.com/desertbyte"
+            "telegram": "https://t.me/hunttly",
+            "website": "https://example.com/hunttly"
           }
         }
       ]
