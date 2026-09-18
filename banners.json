@@ -3,17 +3,17 @@
     {
       "id": 5,
       "title": "New smooth ui",
-      "image": "https://get-key.xo.je/avatars/banner_1.jpg"
+      "image": "https://raw.githubusercontent.com/hunttly/bdk/main/banner_1.jpg"
     },
     {
       "id": 6,
       "title": "",
-      "image": "https://get-key.xo.je/avatars/banner_2.jpg"
+      "image": "https://raw.githubusercontent.com/hunttly/bdk/main/banner_2.jpg"
     }
   ],
   "notice": {
     "id": 11,
     "title": "Monthly Sellers Bonus",
-    "image": "https://get-key.xo.je/avatars/bonus.jpg"
+    "image": "https://raw.githubusercontent.com/hunttly/bdk/main/bonus.jpg"
   }
 }
